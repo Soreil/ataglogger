@@ -3,9 +3,9 @@ A simple server which logs Atag One boiler state to an SQLite database
 
 ## Build dependencies
 
-dotnet 6
+[dotnet 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-dotnet entityframework global tools
+[dotnet entityframework global tools](https://docs.microsoft.com/en-us/ef/core/cli/dotnet)
 
 ## Runtime dependencies
 
